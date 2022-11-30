@@ -1,4 +1,4 @@
 # test-1_oss
-print Hello World!
+print Hello World!\n
 used printf
 ### by jeon jinseong 
